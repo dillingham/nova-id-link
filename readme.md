@@ -9,7 +9,7 @@ Nova package that adds `->linked()` to the Nova ID field
 
 ### Install
 ```
-composer require dillingham\nova-id-link
+composer require dillingham/nova-id-link
 ```
 ### Usage
 
