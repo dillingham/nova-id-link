@@ -5,7 +5,7 @@
 
 Nova package that links the Nova ID field for a quicker click-through from the left side menu.
 
-![id-link-nova-package](https://user-images.githubusercontent.com/29180903/52097836-96667880-259a-11e9-87d3-44ff0519e7c3.png)
+![nova-id](https://user-images.githubusercontent.com/29180903/52130630-b0d73b00-2608-11e9-8e86-8dcda1c65636.png)
 
 ### Install
 ```
