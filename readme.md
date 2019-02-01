@@ -3,7 +3,7 @@
 [![Latest Version on Github](https://img.shields.io/github/release/dillingham/nova-id-link.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-id-link)
 [![Total Downloads](https://img.shields.io/packagist/dt/dillingham/nova-id-link.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-id-link)
 
-Nova package that links the Nova ID field
+Nova package that links the Nova ID field for a quicker click-through from the left side menu.
 
 ![id-link-nova-package](https://user-images.githubusercontent.com/29180903/52097836-96667880-259a-11e9-87d3-44ff0519e7c3.png)
 
