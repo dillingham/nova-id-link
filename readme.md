@@ -24,15 +24,13 @@ public function boot()
 }
 ```
 
-or chain `->linked()` to the existing Nova ID field in your resources:
+or chain `->linked()` to the existing Nova ID field in your **resources**:
 
 ```php
 public function fields(Request $request)
 {
     return [
         ID::make()->linked(),
-
-        Gravatar::make(),
     ];
 }
 ```
