@@ -1,6 +1,6 @@
 {
     "name": "dillingham/nova-id-link",
-    "description": "A Laravel Nova field.",
+    "description": "Links the ID field in Nova",
     "keywords": [
         "laravel",
         "nova"
