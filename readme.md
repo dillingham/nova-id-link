@@ -15,6 +15,9 @@ composer require dillingham/nova-id-link
 
 You can globally link all ID fields in your NovaServiceProvider:
 ```php
+use Laravel\Nova\Fields\ID;
+```
+```php
 public function boot()
 {
     parent::boot();
